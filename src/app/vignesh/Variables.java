@@ -40,5 +40,6 @@ public class Variables {
         double doubleValue = 31.2345;
         System.out.println(doubleValue);
 
+        // Note : Primitive datatypes allows us to store simple values
     }
 }
